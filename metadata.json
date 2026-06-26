@@ -1,0 +1,6 @@
+{
+  "name": "VibeGuard AI",
+  "description": "The world's most proactive productivity wingman. Never miss a deadline with automated step-by-step task deconstruction, student-focused energy adjustments, and active script or mail drafts generators.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
