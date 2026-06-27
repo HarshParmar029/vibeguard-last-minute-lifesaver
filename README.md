@@ -235,6 +235,8 @@ vibeguard-last-minute-lifesaver/
 > "Build an AI-powered productivity companion that proactively assists users in planning, prioritizing, and completing tasks before deadlines are missed."
 
 **Approach:** Four specialized Gemini-powered agents forming a closed-loop system. Not a chatbot around a to-do list — agents that plan, generate, adapt, and motivate in real time.
+<img width="188" height="230" alt="image" src="https://github.com/user-attachments/assets/75ae4f4f-3ec6-4ea9-b9f3-a8807ff439f4" />
+
 
 ---
 
