@@ -166,6 +166,8 @@ Task done. Deadline met.
 
 **🌐 Live App:** [https://vibeguard-ai-912952177005.asia-southeast1.run.app](https://vibeguard-ai-912952177005.asia-southeast1.run.app)
 
+## 📚 Project Description:** [https://docs.google.com/document/d/1GFCg8ginjUhsivvYXjYZJR_lz6Ip5ImhsgwDW5gc7Ys/edit?tab=t.0]
+
 ### In 60 Seconds:
 1. Open the live link above
 2. Add a task + deadline using **"Add Proactive Deadline"**
