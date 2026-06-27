@@ -253,6 +253,7 @@ B.Tech ICT · Marwadi University, Rajkot
 <div align="center">
 
 "Built solo. Shipped end-to-end."
+
 "From first prompt in Google AI Studio to live on Google Cloud Run."
 
 **⚡ VibeGuard AI — because the gap between knowing and doing is where deadlines die.**
